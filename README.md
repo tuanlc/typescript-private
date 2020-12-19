@@ -1,0 +1,1 @@
+This project is an example of my article: [Typescript: Are “Private” properties private?](https://congtuanle.medium.com/typescript-are-private-properties-private-c9558f04f571)
